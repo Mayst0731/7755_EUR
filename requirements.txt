@@ -1,0 +1,13 @@
+aiofiles==0.7.0
+aiohttp @ file:///opt/concourse/worker/volumes/live/c1e20eca-da03-437f-5883-d69885aa835f/volume/aiohttp_1603893268255/work
+anyio @ file:///opt/concourse/worker/volumes/live/64740ac7-3a9c-4fbb-6685-a51c4ff8b4ca/volume/anyio_1617783319350/work/dist
+astroid @ file:///opt/concourse/worker/volumes/live/343a8902-287c-47fb-6db8-923a63364302/volume/astroid_1613500849157/work
+async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
+async-timeout==3.0.1
+beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
+lxml @ file:///opt/concourse/worker/volumes/live/9351a723-931c-40fa-7baa-f2f468cdccf6/volume/lxml_1603216287330/work
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+selenium @ file:///opt/concourse/worker/volumes/live/f54cbba5-7632-4bae-5fbd-3ec06aa93a51/volume/selenium_1594416153038/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+w3lib==1.21.0
+webdriver-manager==3.4.2
